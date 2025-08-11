@@ -1,18 +1,28 @@
-# student_portal_demo
-Student entire details
-STUDENT-PORTAL-DEMO
-STUDENT DETAILS
+1. Student Profile
 
-2. Student Profile
+Student ID: 2358250120
 
-Full Name     : Raj kumar sunkara
-SUC ID           : 2358250120
-Email and Contact Number   : rajkumar.sunkara123@gmail.com  , 9390046836
-Current Year       : 2nd year
-Department : Computer Science
-Course     :         BCA
+Name: Raj kumar sunkara
 
+Gender: Male
 
+Date of Birth: 04-06-2006
 
+Email: rajkumar.sunkara123@gmail.com
 
+Phone: +91 9390046836
+
+Address: Sunkara vaari veedhi, vommangi , prathi padu mandal , Andhra Pradesh
+
+Course: BCA (Computer Science)
+
+Year/Semester: 2rd Year / 5th Semester
+
+Roll Number: 53
+
+Admission Date: 15-07-2023
+
+Guardian Name: Sunkara NANAJI
+
+Guardian Contact: +91 91234 56789
 
