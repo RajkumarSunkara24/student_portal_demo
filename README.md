@@ -16,7 +16,7 @@ Address: Sunkara vaari veedhi, vommangi , prathi padu mandal , Andhra Pradesh
 
 Course: BCA (Computer Science)
 
-Year/Semester: 2rd Year / 5th Semester
+Year/Semester: 3rd Year / 5th Semester
 
 Roll Number: 53
 
